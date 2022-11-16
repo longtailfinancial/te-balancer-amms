@@ -25,3 +25,4 @@ google-api-python-client==2.65.0
 hvplot==0.8.1
 ccxt==2.1.71
 scipy==1.9.3
+matplotlib==3.6.2
